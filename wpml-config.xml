@@ -1,0 +1,37 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">quote</custom-field>
+        <custom-field action="translate">quote_author</custom-field>
+    </custom-fields>
+    <taxonomies>
+        <taxonomy translate="1">catportfolio</taxonomy>
+        <taxonomy translate="1">tagportfolio</taxonomy>
+        <taxonomy translate="1">groups</taxonomy>
+        <taxonomy translate="1">staffposition</taxonomy>
+    </taxonomies>    
+    <admin-texts>
+        <key name="rd_data">
+            <key name="rd_topbar_phone_text" />
+            <key name="rd_topbar_mail_text" />
+			<key name="rd_topbar_news_text" />
+			<key name="rd_footer_message" />
+			<key name="rd_bc_portlink" />
+			<key name="rd_bc_porttext" />
+			<key name="rd_bc_stafflink" />
+			<key name="rd_bc_stafftext" />
+			<key name="rd_bc_shoplink" />
+			<key name="rd_bc_shoptext" />
+			<key name="rd_error_title" />
+			<key name="rd_error_text" />
+			<key name="rd_error_subtext" />
+			<key name="rd_csp_text" />
+			<key name="rd_csp_days" />
+			<key name="rd_csp_hours" />			
+			<key name="rd_csp_minutes" />		
+			<key name="rd_csp_seconds" />		
+			<key name="rd_csp_mail_placeholder" />
+        </key>
+    </admin-texts>    
+</wpml-config>
+
+
